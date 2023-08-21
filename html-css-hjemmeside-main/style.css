@@ -133,15 +133,7 @@ a {
 	font-weight: 400;
 	text-transform: uppercase;
 }
-.downloadBtn {
-	display: block;
-	text-decoration: underline;
-	font-size: 1.6rem;
-	margin-top: 1rem;
-}
-.downloadBtn:hover {
-	color: var(--primary-color);
-}
+
 @media only screen and (max-width: 768px) {
 	.profile_container {
 		flex-direction: column;
